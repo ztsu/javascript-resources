@@ -10,6 +10,9 @@
 * [Learning JavaScript Design Patterns](http://books.google.ru/books?id=L46fX62D5qYC), Addy Osmani, O’Reilly 2010 ([free online](http://addyosmani.com/resources/essentialjsdesignpatterns/book/))
 * [Speaking JavaScript](http://books.google.ru/books?id=tBbsAgAAQBAJ), Dr. Axel Rauschmayer, O’Reilly 2014 ([free online](http://speakingjs.com/es5/index.html))
 
+## Cheat sheets
+* [ECMAScript 5 compatibility table](http://kangax.github.io/compat-table/es5/)
+
 ## Newsletters
 * [JavaScript Weekly](http://javascriptweekly.com)
 
