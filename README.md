@@ -14,6 +14,7 @@
 * [JavaScript Weekly](http://javascriptweekly.com)
 
 ## Other
+* [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 * http://wtfjs.com
 
 ## Unsorted
