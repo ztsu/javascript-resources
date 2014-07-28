@@ -4,6 +4,7 @@
 * [JavaScript reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ## Books
+* [Eloquent JavaScript: A Modern Introduction to Programming](http://books.google.ru/books?id=9U5I_tskq9MC), Marijn Haverbeke, No Starch Press, 2011 ([free online](http://eloquentjavascript.net/contents.html))
 * [High Performance JavaScript](http://books.google.ru/books?id=ED6ph4WEIoQC), Nicholas C. Zakas, O’Reilly 2010
 * [Speaking JavaScript](http://speakingjs.com), Dr. Axel Rauschmayer, O’Reilly 2014 ([free online](http://speakingjs.com/es5/index.html))
 
