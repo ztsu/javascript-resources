@@ -12,6 +12,7 @@
 
 ## Cheat sheets
 * [ECMAScript 5 compatibility table](http://kangax.github.io/compat-table/es5/)
+* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
 
 ## Newsletters
 * [JavaScript Weekly](http://javascriptweekly.com)
