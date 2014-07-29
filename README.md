@@ -19,7 +19,7 @@
 
 ## Other
 * [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
-* http://wtfjs.com
+* [wtfjs](http://wtfjs.com)
 * [JSbooks](http://jsbooks.revolunet.com "Free JavaScript books")
 * [Superhero.js](http://superherojs.com)
 
