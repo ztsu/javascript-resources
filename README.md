@@ -21,9 +21,9 @@
 * [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 * http://wtfjs.com
 * [JSbooks](http://jsbooks.revolunet.com "Free JavaScript books")
+* [Superhero.js](http://superherojs.com)
 
 ## Unsorted
-http://superherojs.com
 Object-Oriented JavaScript by yours truly
 JavaScript: The Definitive Guide by David Flanagan
 JavaScript: The Good Parts by Douglas Crockford
