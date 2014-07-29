@@ -20,6 +20,7 @@
 ## Other
 * [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 * http://wtfjs.com
+* [JSbooks](http://jsbooks.revolunet.com "Free JavaScript books")
 
 ## Unsorted
 http://superherojs.com
