@@ -24,19 +24,19 @@
 * [Superhero.js](http://superherojs.com)
 
 ## Unsorted
-Object-Oriented JavaScript by yours truly
-JavaScript: The Definitive Guide by David Flanagan
-JavaScript: The Good Parts by Douglas Crockford
-Pro JavaScript Design Patterns by Ross Hermes and Dustin Diaz
-http://learn.javascript.ru
-http://brendaneich.com
-http://dmitrysoshnikov.com, @DmitrySoshnikov
-http://webreflection.blogspot.com, @WebReflection
-http://asenbozhilov.com, @abozhilov
-http://perfectionkills.com, @kangax
-http://wonko.com, @yaypie
-http://nczonline.net, @slicknet
-http://remysharp.com, @rem
-http://fluentconf.com/fluent2014
-http://www.nczonline.net/blog/, @slicknet
-http://addyosmani.com, @addyosmani
+* Object-Oriented JavaScript by yours truly
+* JavaScript: The Definitive Guide by David Flanagan
+* JavaScript: The Good Parts by Douglas Crockford
+* Pro JavaScript Design Patterns by Ross Hermes and Dustin Diaz
+* http://learn.javascript.ru
+* http://brendaneich.com
+* http://dmitrysoshnikov.com, @DmitrySoshnikov
+* http://webreflection.blogspot.com, @WebReflection
+* http://asenbozhilov.com, @abozhilov
+* http://perfectionkills.com, @kangax
+* http://wonko.com, @yaypie
+* http://nczonline.net, @slicknet
+* http://remysharp.com, @rem
+* http://fluentconf.com/fluent2014
+* http://www.nczonline.net/blog/, @slicknet
+* http://addyosmani.com, @addyosmani
