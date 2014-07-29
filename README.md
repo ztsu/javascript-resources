@@ -12,8 +12,7 @@
 * [Speaking JavaScript](http://books.google.ru/books?id=tBbsAgAAQBAJ), Dr. Axel Rauschmayer, O’Reilly 2014 ([free online](http://speakingjs.com/es5/index.html))
 
 ## Cheat sheets
-* [ECMAScript 5 compatibility table](http://kangax.github.io/compat-table/es5/)
-* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+* [ECMAScript 5](http://kangax.github.io/compat-table/es5/) and [ECMAScript 6](http://kangax.github.io/compat-table/es6/) compatibility tables
 
 ## Newsletters
 * [JavaScript Weekly](http://javascriptweekly.com)
