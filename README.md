@@ -8,6 +8,7 @@
 * [High Performance JavaScript](http://books.google.ru/books?id=ED6ph4WEIoQC), Nicholas C. Zakas, O’Reilly 2010
 * [Learning JavaScript Design Patterns](http://books.google.ru/books?id=L46fX62D5qYC), Addy Osmani, O’Reilly 2010 ([free online](http://addyosmani.com/resources/essentialjsdesignpatterns/book/))
 * [Object-Oriented JavaScript](http://books.google.ru/books?id=v_oIIyw1vSIC), Stoyan Stefanov, Packt Publishing 2008
+* [Pro JavaScript Design Patterns](http://www.amazon.com/Pro-JavaScript-Design-Patterns-Object-Oriented/dp/159059908X "Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming"), Dustin Diaz, Ross Harmes, Apress 2007
 * [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do "Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Modern JS Libraries"), Eric Elliot, O’Reilly 2014 ([free online](http://chimera.labs.oreilly.com/books/1234000000262/index.html))
 * [Speaking JavaScript](http://books.google.ru/books?id=tBbsAgAAQBAJ), Dr. Axel Rauschmayer, O’Reilly 2014 ([free online](http://speakingjs.com/es5/index.html))
 
