@@ -1,8 +1,5 @@
 # JavaScript resources
 
-## References
-* [JavaScript reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-
 ## Books
 * [Eloquent JavaScript](http://books.google.ru/books?id=9U5I_tskq9MC "Eloquent JavaScript: A Modern Introduction to Programming"), Marijn Haverbeke, No Starch Press, 2011 ([free online](http://eloquentjavascript.net/contents.html))
 * [JavaScript Patterns](http://books.google.ru/books?id=WTZqecc9olUC), Stoyan Stefanov, O'Reilly 2010
@@ -11,6 +8,9 @@
 * [Object-Oriented JavaScript](http://books.google.ru/books?id=v_oIIyw1vSIC), Stoyan Stefanov, Packt Publishing 2008
 * [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do "Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Modern JS Libraries"), Eric Elliot, O’Reilly 2014 ([free online](http://chimera.labs.oreilly.com/books/1234000000262/index.html))
 * [Speaking JavaScript](http://books.google.ru/books?id=tBbsAgAAQBAJ), Dr. Axel Rauschmayer, O’Reilly 2014 ([free online](http://speakingjs.com/es5/index.html))
+
+## References
+* [JavaScript reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ## Cheat sheets
 * [ECMAScript 5](http://kangax.github.io/compat-table/es5/) and [ECMAScript 6](http://kangax.github.io/compat-table/es6/) compatibility tables
