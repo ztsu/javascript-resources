@@ -3,6 +3,7 @@
 ## Books
 * [Eloquent JavaScript](http://books.google.ru/books?id=9U5I_tskq9MC "Eloquent JavaScript: A Modern Introduction to Programming"), Marijn Haverbeke, No Starch Press, 2011 ([free online](http://eloquentjavascript.net/contents.html))
 * [JavaScript: The Definitive Guide](http://books.google.ru/books?id=6TAODdEIxrgC), 6th edition, David Flanagan, O’Reilly 2011
+* [JavaScript: The Good Parts](http://books.google.ru/books?id=F9ybAgAAQBAJ), Douglas Crockford, O’Reilly 2008
 * [JavaScript Patterns](http://books.google.ru/books?id=WTZqecc9olUC), Stoyan Stefanov, O'Reilly 2010
 * [High Performance JavaScript](http://books.google.ru/books?id=ED6ph4WEIoQC), Nicholas C. Zakas, O’Reilly 2010
 * [Learning JavaScript Design Patterns](http://books.google.ru/books?id=L46fX62D5qYC), Addy Osmani, O’Reilly 2010 ([free online](http://addyosmani.com/resources/essentialjsdesignpatterns/book/))
@@ -26,7 +27,6 @@
 * [Superhero.js](http://superherojs.com)
 
 ## Unsorted
-* JavaScript: The Good Parts by Douglas Crockford
 * Pro JavaScript Design Patterns by Ross Hermes and Dustin Diaz
 * http://learn.javascript.ru
 * http://brendaneich.com
