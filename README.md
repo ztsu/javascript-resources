@@ -28,7 +28,6 @@
 * [Superhero.js](http://superherojs.com)
 
 ## Unsorted
-* Pro JavaScript Design Patterns by Ross Hermes and Dustin Diaz
 * http://learn.javascript.ru
 * http://brendaneich.com
 * http://dmitrysoshnikov.com, @DmitrySoshnikov
