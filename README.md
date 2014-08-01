@@ -1,6 +1,7 @@
 # JavaScript resources
 
 ## Books
+* [Beautiful JavaScript](http://books.google.ru/books?id=-tXnnQEACAAJ "Beautiful JavaScript: Leading Programmers Explain How They Think"), Anton Kovalyov, O'Reilly 2014
 * [Eloquent JavaScript](http://books.google.ru/books?id=9U5I_tskq9MC "Eloquent JavaScript: A Modern Introduction to Programming"), Marijn Haverbeke, No Starch Press, 2011 ([free online](http://eloquentjavascript.net/contents.html))
 * [JavaScript: The Definitive Guide](http://books.google.ru/books?id=6TAODdEIxrgC), 6th edition, David Flanagan, O’Reilly 2011
 * [JavaScript: The Good Parts](http://books.google.ru/books?id=F9ybAgAAQBAJ), Douglas Crockford, O’Reilly 2008
@@ -13,6 +14,7 @@
 * [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do "Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Modern JS Libraries"), Eric Elliot, O’Reilly 2014 ([free online](http://chimera.labs.oreilly.com/books/1234000000262/index.html))
 * [Secrets of the JavaScript Ninja](http://books.google.ru/books?id=ab8CPgAACAAJ), John Resig, Bear Bibeault, Manning Publications Company 2012
 * [Speaking JavaScript](http://books.google.ru/books?id=tBbsAgAAQBAJ), Dr. Axel Rauschmayer, O’Reilly 2014 ([free online](http://speakingjs.com/es5/index.html))
+* [Third-party JavaScript](http://books.google.ru/books?id=JcrznQEACAAJ), Ben Vinegar, Anton Kovalyov, Manning Publications Company 2013
 
 ## References
 * [JavaScript reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
@@ -43,3 +45,4 @@
 * http://www.nczonline.net/blog/, @slicknet
 * http://addyosmani.com, @addyosmani
 * http://phpied.com, @stoyanstefanov
+* http://anton.kovalyov.net, @valueof
