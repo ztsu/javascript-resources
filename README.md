@@ -11,6 +11,7 @@
 * [Pro JavaScript Design Patterns](http://www.amazon.com/Pro-JavaScript-Design-Patterns-Object-Oriented/dp/159059908X "Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming"), Dustin Diaz, Ross Harmes, Apress 2007
 * [Pro JavaScript Techniques](http://books.google.ru/books?id=itl2mAEACAAJ), John Resig, Apress 2006 
 * [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do "Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Modern JS Libraries"), Eric Elliot, O’Reilly 2014 ([free online](http://chimera.labs.oreilly.com/books/1234000000262/index.html))
+* [Secrets of the JavaScript Ninja](http://books.google.ru/books?id=ab8CPgAACAAJ), John Resig, Bear Bibeault, Manning Publications Company 2012
 * [Speaking JavaScript](http://books.google.ru/books?id=tBbsAgAAQBAJ), Dr. Axel Rauschmayer, O’Reilly 2014 ([free online](http://speakingjs.com/es5/index.html))
 
 ## References
