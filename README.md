@@ -47,3 +47,4 @@
 * http://addyosmani.com, @addyosmani
 * http://phpied.com, @stoyanstefanov
 * http://anton.kovalyov.net, @valueof
+* http://javascriptweblog.wordpress.com/, @angusTweets
