@@ -3,11 +3,11 @@
 ## Books
 * [Beautiful JavaScript](http://books.google.ru/books?id=-tXnnQEACAAJ "Beautiful JavaScript: Leading Programmers Explain How They Think"), Anton Kovalyov, O'Reilly 2014
 * [Eloquent JavaScript](http://books.google.ru/books?id=9U5I_tskq9MC "Eloquent JavaScript: A Modern Introduction to Programming"), Marijn Haverbeke, No Starch Press, 2011 ([free online](http://eloquentjavascript.net/contents.html))
+* [High Performance JavaScript](http://books.google.ru/books?id=ED6ph4WEIoQC), Nicholas C. Zakas, O’Reilly 2010
+* [If Hemingway wrote JavaScript](http://anguscroll.com/hemingway/), Angus Croll, O’Reilly 2014
 * [JavaScript: The Definitive Guide](http://books.google.ru/books?id=6TAODdEIxrgC), 6th edition, David Flanagan, O’Reilly 2011
 * [JavaScript: The Good Parts](http://books.google.ru/books?id=F9ybAgAAQBAJ), Douglas Crockford, O’Reilly 2008
 * [JavaScript Patterns](http://books.google.ru/books?id=WTZqecc9olUC), Stoyan Stefanov, O'Reilly 2010
-* [High Performance JavaScript](http://books.google.ru/books?id=ED6ph4WEIoQC), Nicholas C. Zakas, O’Reilly 2010
-* [If Hemingway wrote JavaScript](http://anguscroll.com/hemingway/), Angus Croll, O’Reilly 2014
 * [Learning JavaScript Design Patterns](http://books.google.ru/books?id=L46fX62D5qYC), Addy Osmani, O’Reilly 2010 ([free online](http://addyosmani.com/resources/essentialjsdesignpatterns/book/))
 * [Object-Oriented JavaScript](http://books.google.ru/books?id=v_oIIyw1vSIC), Stoyan Stefanov, Packt Publishing 2008
 * [Pro JavaScript Design Patterns](http://www.amazon.com/Pro-JavaScript-Design-Patterns-Object-Oriented/dp/159059908X "Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming"), Dustin Diaz, Ross Harmes, Apress 2007
