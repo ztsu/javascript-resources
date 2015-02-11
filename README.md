@@ -48,3 +48,4 @@
 * http://phpied.com, @stoyanstefanov
 * http://anton.kovalyov.net, @valueof
 * http://javascriptweblog.wordpress.com/, @angusTweets
+* http://bakhirev.biz/
